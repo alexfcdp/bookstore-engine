@@ -1,0 +1,117 @@
+en:
+  currency_sign: '€'
+
+  button:
+    save: 'Save'
+    save_continue: 'Save and Continue'
+    back: 'Back to Store'
+    place_order: 'Place Order'
+    started: 'Get Started'
+    view_more: 'View More'
+    home: 'Home'
+    shop: 'Shop'
+    orders: 'Orders'
+    settings: 'Settings'
+    admin_panel: 'Admin Panel'
+    my_account: 'My account'
+    my_orders: 'My Orders'
+    log_out: 'Log out'
+    log_in: 'Log In'
+    sing_up: 'Sing Up'
+    buy_now: 'Buy Now'
+    add_to_cart: 'Add to Cart'
+
+  info:
+    mail_welcome: 'Welcome to Amazing Bookstore!'
+    mail_thanks: 'Thank You for your Order!'
+    sort: 'Sort by'
+    filter: 'Filter:'
+    all: 'All'
+    bookstore: 'Bookstore'
+    thanks_mailer: 'Thanks for joining and have a great day!'
+    welcome_mailer: "Welcome to 'Amazing' Bookstore"
+    successfully_mail: 'You have successfully signed up to Amazing,'
+    username: 'your username is:'
+    password: 'your password is:'
+    worth: 'worth'
+
+  book:
+    catalog: 'Сatalog'
+    back: 'Back to results'
+    description: 'Description'
+    publication: 'Year of publication'
+    dimensions: 'Dimensions'
+    materials: 'Materials'
+    previous: 'Previous'
+    next: 'Next'
+    best_sellers: 'Best Sellers'
+
+  home:
+    welcome: 'Welcome to our amazing Bookstore!'
+    info: 'We pore through hundreds of new books each month and select the five best we can find to share with our members.'
+
+  user:
+    email_busy: 'This Email belongs to another user'
+    send_email: 'You have been successfully registered. You have been sent a letter to: '
+
+  review:
+    name: 'Reviews'
+    review: 'Review'
+    title: 'Title'
+    msg: 'Thanks for Review. It will be published as soon as it will be verifed'
+    verified: 'Verified Reviewer'
+    rating_error: 'Please rate the book'
+    score: 'Score'
+    write: 'Write a Review'
+
+  errors:
+    file_size: 'Images should be less than '
+    file_content: 'Images only allows jpeg and png'
+    nil_book: 'Requested book not found'
+
+  filter_book:
+    newest: 'Newest first'
+    popular: 'Popular first'
+    price_low_to_high: 'Price: low to high'
+    price_high_to_low: 'Price: high to low'
+    title_asc: 'Title: A - Z'
+    title_desc: 'Title: Z - A'
+
+  admin:
+    all: 'All'
+    author: 'Author'
+    images: 'Images'
+    title: 'Title'
+    authors: 'Authors'
+    categories: 'Categories'
+    delete_all_img: 'Delete all images'
+    dimensions: 'Dimensions'
+    delete_img: 'Delete image'
+    cover_not: 'Cover not available'
+    info_book: 'Info Book'
+    in_progress: 'In progress'
+    delivered: 'Delivered'
+    canceled: 'Canceled'
+    order_number: 'Order number'
+    completion: 'Date of completion'
+    status_change: 'Status change'
+    current_status: 'Current status: '
+    info_status: 'Order status can be changed only when the status is in_queue and above'
+    new: 'New'
+    processed: 'Processed'
+    approved: 'Approved'
+    rejected: 'Rejected'
+    back_review: 'Back to reviews'
+    title_review: 'Rewiew Title'
+    del_avatar: 'Delete avatar'
+    avatar: 'Avatar'
+    user_photo: 'User Photo'
+    unauthorized: 'Unauthorized Access!'
+    order_item: 'Order Items Details'
+
+
+
+
+   
+  
+
