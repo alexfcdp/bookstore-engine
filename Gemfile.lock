@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/alexfcdp/shopping_cart-engine
-  revision: 95cff35e3e4f7feec9f8fa2124b69ec11bc21db5
+  revision: 89b9f2112ca40e4c1ef60f01466259788454f893
   branch: feature/shopping-engine
   specs:
     shopping_cart (0.1.0)
